@@ -1,1 +1,1 @@
-![CI](https://github.com/AnatolOV/https://github.com/AnatolOV/env.git/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/AnatolOV/env/actions/workflows/web.yml/badge.svg)
